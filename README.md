@@ -32,3 +32,7 @@ Create .gitignore txt file in root folder. Place these content in file.<br>
 
 `git commit - m "My First Commit"`<br>
 `git push origin`<br>
+
+## Check the current url for remote
+
+`git remote get-url --all origin
